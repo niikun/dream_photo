@@ -1,0 +1,8 @@
+streamlit
+pillow
+numpy
+python-dotenv
+torch
+diffusers
+transformers
+pyngrok
